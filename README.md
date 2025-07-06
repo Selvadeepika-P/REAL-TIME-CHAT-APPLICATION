@@ -1,4 +1,11 @@
 # REAL-TIME-CHAT-APPLICATION
+COMPANY:CODTECH IT SOLUTIONS
+NAME:SELVADEEPIKA P
+INTERN ID:CT04DG3148
+DOMAIN:FRONT END WEB DEVELOPMENT
+DURATION:4WEEKS
+MENTOR:NEELA SANTHOSH
+
 The Real-Time Chat Application is a web-based messaging platform built using WebSockets and a front-end framework like React.js or Vue.js. It enables users to send and receive messages instantly without refreshing the page. The application uses Socket.IO for real-time communication and features a clean, responsive UI that works on both desktop and mobile devices. Key features include live message updates, message history, and multi-user support. This project demonstrates skills in full-stack development, real-time data handling, and responsive design.
 
 #OUTPUT
